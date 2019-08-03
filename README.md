@@ -1,3 +1,4 @@
+[![Tsoding](https://img.shields.io/badge/twitch.tv-tsoding-purple?logo=twitch&style=for-the-badge)](https://www.twitch.tv/tsoding)
 # ROSC Trophy Room
 
 On the Real Open Source Contribution (ROSC) series we are trying to
