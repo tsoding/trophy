@@ -9,7 +9,9 @@ into the upstream source code of the project.
 
 A Multiboot boot loader.
 
-- **Source Code**: https://www.gnu.org/software/grub/grub-download.html
+- **Source Code**:
+  - https://www.gnu.org/software/grub/grub-download.html
+  - https://github.com/tsoding/grub-gamepad
 - **Feature**: [Gamepad Support](https://steamcommunity.com/groups/steamuniverse/discussions/0/558751660797029626/)
 
 ## [PAUSED] MyPaint
