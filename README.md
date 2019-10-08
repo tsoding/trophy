@@ -6,7 +6,13 @@ take an Open Source project that I personally use on a daily basis and
 improve it. The goal is to implement a feature and actually make it
 into the upstream source code of the project.
 
-## [IN PROGRESS] GRUB 2
+## [IN PROGRESS] Minetest
+
+- **Source Code**:
+  - https://github.com/minetest/minetest
+- **Feature**: TBD
+
+## [NICE TRY] GRUB 2
 
 A Multiboot boot loader.
 
@@ -14,6 +20,9 @@ A Multiboot boot loader.
   - https://www.gnu.org/software/grub/grub-download.html
   - https://github.com/tsoding/grub-gamepad
 - **Feature**: [Gamepad Support](https://steamcommunity.com/groups/steamuniverse/discussions/0/558751660797029626/)
+- **Trophy**:
+  - https://github.com/tsoding/grub-gamepad
+  - https://lists.gnu.org/archive/html/grub-devel/2019-09/msg00038.html
 
 ## [PAUSED] MyPaint
 
