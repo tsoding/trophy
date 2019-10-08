@@ -28,7 +28,6 @@ A Multiboot boot loader.
 - **Status**: Feature successfully implemented. GRUB developers
   acknowledgement its existence. No progress so far.
 - **Trophy**:
-  - https://github.com/tsoding/grub-gamepad
   - https://lists.gnu.org/archive/html/grub-devel/2019-09/msg00038.html
 
 ## MyPaint
