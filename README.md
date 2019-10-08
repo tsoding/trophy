@@ -26,7 +26,7 @@ A Multiboot boot loader.
 - **Feature**: [Gamepad Support](https://steamcommunity.com/groups/steamuniverse/discussions/0/558751660797029626/)
 - **VODs**: https://www.twitch.tv/collections/qhijEFrmqRUFvA
 - **Status**: Feature successfully implemented. GRUB developers
-  acknowledgement its existence. No progress so far.
+  acknowledged its existence. No progress so far.
 - **Trophy**:
   - https://lists.gnu.org/archive/html/grub-devel/2019-09/msg00038.html
 
