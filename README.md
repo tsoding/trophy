@@ -24,6 +24,7 @@ A Multiboot boot loader.
   - https://www.gnu.org/software/grub/grub-download.html
   - https://github.com/tsoding/grub-gamepad
 - **Feature**: [Gamepad Support](https://steamcommunity.com/groups/steamuniverse/discussions/0/558751660797029626/)
+- **VODs**: https://www.twitch.tv/collections/qhijEFrmqRUFvA
 - **Status**: Feature successfully implemented. GRUB developers
   acknowledgement its existence. No progress so far.
 - **Trophy**:
