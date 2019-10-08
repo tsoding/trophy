@@ -10,6 +10,9 @@ into the upstream source code of the project.
 
 ![](https://img.shields.io/badge/in%20progress-blue?style=for-the-badge)
 
+Minetest, an open source infinite-world block sandbox game engine with
+support for survival and crafting.
+
 - **Source Code**:
   - https://github.com/minetest/minetest
 - **Feature**: TBD
