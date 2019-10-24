@@ -15,7 +15,8 @@ support for survival and crafting.
 
 - **Source Code**:
   - https://github.com/minetest/minetest
-- **Feature**: TBD
+- **Feature**:
+  - https://github.com/minetest/minetest/issues/3075
 - **VODs**: https://www.twitch.tv/collections/xVYmyadKzBUYWQ
 
 ## GRUB 2
