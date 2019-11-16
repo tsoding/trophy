@@ -8,7 +8,7 @@ into the upstream source code of the project.
 
 ## Minetest
 
-![](https://img.shields.io/badge/in%20progress-blue?style=for-the-badge)
+![](https://img.shields.io/badge/inconclusive-grey?style=for-the-badge)
 
 Minetest, an open source infinite-world block sandbox game engine with
 support for survival and crafting.
@@ -18,6 +18,9 @@ support for survival and crafting.
 - **Feature**:
   - https://github.com/minetest/minetest/issues/3075
 - **VODs**: https://www.twitch.tv/collections/xVYmyadKzBUYWQ
+- **Status**: Bug is fixed, but I'm dissatisfied with the solution.
+- **Trophy**:
+  - https://github.com/minetest/minetest/pull/9073
 
 ## GRUB 2
 
