@@ -6,6 +6,21 @@ take an Open Source project that I personally use on a daily basis and
 improve it. The goal is to implement a feature and actually make it
 into the upstream source code of the project.
 
+## Syncthing
+
+![](https://img.shields.io/badge/in%20progress-blue?style=for-the-badge)
+
+Syncthing is a continuous file synchronization program. It
+synchronizes files between two or more computers and replaces
+proprietary sync and cloud services with something open, trustworthy
+and decentralized.
+
+- **Source Code**:
+  - https://github.com/syncthing/syncthing
+- **Feature**: In progress of choosing. Current candidates are:
+  - https://github.com/syncthing/syncthing/issues/6075
+- **Status**: In progress
+
 ## Minetest
 
 ![](https://img.shields.io/badge/inconclusive-grey?style=for-the-badge)
