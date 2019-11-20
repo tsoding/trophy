@@ -19,6 +19,7 @@ and decentralized.
   - https://github.com/syncthing/syncthing
 - **Feature**: In progress of choosing. Current candidates are:
   - https://github.com/syncthing/syncthing/issues/6075
+- **VODs**: https://www.twitch.tv/collections/7z4Hesvi2BVmuw
 - **Status**: In progress
 
 ## Minetest
